@@ -6,7 +6,7 @@ I receive around 60 pull requests every semester and have to manually delete eac
 
 
 
-[![Run App Michalski Beau](https://github.com/BeauUNL/GithubActions/actions/workflows/ci.yml/badge.svg)](https://github.com/BeauUNL/GithubActions/actions/workflows/ci.yml)
+[![Run App Michalski Beau](https://github.com/BeauUNL/GithubActions/actions/workflows/ci.yml/badge.svg)](https://github.com/BeauUNL/GithubActions/actions/workflows/ci.yml) 
 
 
 # Github Actions Lab
