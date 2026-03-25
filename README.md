@@ -4,6 +4,11 @@
 
 I receive around 60 pull requests every semester and have to manually delete each request and action run. Your actions will automatically fail if you open a pull request
 
+
+
+[![Run App Michalski Beau](https://github.com/BeauUNL/GithubActions/actions/workflows/ci.yml/badge.svg)](https://github.com/BeauUNL/GithubActions/actions/workflows/ci.yml)
+
+
 # Github Actions Lab
 
 Because Travis CI is no longer free, we are going to look at how Github Actions can provide continuous integration on a sample project.
